@@ -1,0 +1,107 @@
+*{
+	    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-brand{
+	padding-left: 200px;
+}
+
+
+header{
+    height: 20px;
+	background: url(main.png); 
+	background-size: cover;
+    color: #fff;
+    padding-bottom: 0px;
+    position: relative;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    min-height: 900px;
+
+}
+
+.location{
+   
+    position: absolute;
+    box-sizing: border-box;
+   
+    width: 100%;
+}
+
+
+.continer-text{
+
+
+	font: bold;
+    font-size: 20px;
+	padding-left: 50px;
+    padding-top: 30px;
+
+}
+
+.pharmacy{
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
+}
+
+
+.wrapper {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+
+.banner_content {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 40%;
+}
+
+
+.banner-text{
+	color: white;
+	overflow: hidden;
+}
+
+
+
+footer {
+    padding: 30px 0;
+    background: black;
+    text-align: center;
+
+}
+
+
+.row {
+	margin-top: 20px;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+
+.col-lg-3 {
+    width: 33.33333333%;
+}
+
+
+h2{
+	margin-top: 30px;
+	
+	 margin-left: 80px;
+
+}
+h5{
+	 margin-left: 80px;
+}
+
+.footer-bottom{
+	color: white;
+}
