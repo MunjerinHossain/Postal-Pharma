@@ -1,2 +1,2 @@
 # Postal-Pharma
-Build a website which will provide medicine from pharmacy to home doors through delivery man.
+Postal Pharma is a website which will help the user to provide medicine from pharmacy to home doors through delivery man.
